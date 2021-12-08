@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm I'm Mihir</h1>
+<h1 align="center">Hi there 👋, I'm Mihir</h1>
 <h3 align="center">Sophomore @ IIT Kharagpur, and a Passionate Frontend developer</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Angular framework.**
