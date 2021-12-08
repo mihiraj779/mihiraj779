@@ -1,6 +1,3 @@
-
-
-preview
 <h1 align="center">Hi there 👋, I'm I'm Mihir</h1>
 <h3 align="center">Sophomore @ IIT Kharagpur, and a passionate frontend develper</h3>
 
