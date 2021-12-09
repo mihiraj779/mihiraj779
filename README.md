@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Angular framework.**
 
-- 📫 How to reach me **mihirraj779@gmail.com**
+- 📫 Reach me at **mihirraj779@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD.**
 
