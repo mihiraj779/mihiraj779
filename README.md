@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mihir</h1>
 
-- 🌱 I’m currently working as **Software Developer**
+- 🌱 I’m currently working as a **Software Developer Intern** at **Bidaal**
 
 - 📫 Reach me at **mihirraj779@gmail.com**
 
