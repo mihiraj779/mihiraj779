@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mihir</h1>
-<h3 align="center">Final @ IIT Kharagpur, and a Software developer @Honeywell</h3>
 
-- 🌱 I’m currently learning **Competitive Programming and Web Development**
+- 🌱 I’m currently working as **Software Developer**
 
 - 📫 Reach me at **mihirraj779@gmail.com**
 
